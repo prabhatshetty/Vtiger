@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Browserlaunched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[User name(admin) entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password (root) entered sussessfully]]>
+    </line>
+    <line>
+      <![CDATA[Home Page is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Invoice page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Organisation Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[product Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Status Credit Invoice is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[quantity (1) is entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[click on save button is successful]]>
+    </line>
+    <line>
+      <![CDATA[Invoice info page is display]]>
+    </line>
+    <line>
+      <![CDATA[Subject(Motog Billing) is  display]]>
+    </line>
+    <line>
+      <![CDATA[Address(Hardespur pune) is display]]>
+    </line>
+    <line>
+      <![CDATA[Address(Hardespur pune) is display]]>
+    </line>
+    <line>
+      <![CDATA[Quantity(1.00) is display]]>
+    </line>
+    <line>
+      <![CDATA[Status(Credit Invoice) is display]]>
+    </line>
+    <line>
+      <![CDATA[Sign out is successful]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56595" started-at="2021-12-29T15:52:41 IST" finished-at="2021-12-29T15:53:38 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56595" started-at="2021-12-29T15:52:41 IST" finished-at="2021-12-29T15:53:38 IST">
+      <class name="VtigerAssignment.TC_005">
+        <test-method status="PASS" signature="launchingBrowser()[pri:0, instance:VtigerAssignment.TC_005@1500955a]" name="launchingBrowser" is-config="true" duration-ms="4602" started-at="2021-12-29T15:52:41 IST" finished-at="2021-12-29T15:52:46 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Browserlaunched successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchingBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:VtigerAssignment.TC_005@1500955a]" name="login" is-config="true" duration-ms="9331" started-at="2021-12-29T15:52:46 IST" finished-at="2021-12-29T15:52:55 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[User name(admin) entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password (root) entered sussessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="invoice()[pri:0, instance:VtigerAssignment.TC_005@1500955a]" name="invoice" duration-ms="38820" started-at="2021-12-29T15:52:55 IST" finished-at="2021-12-29T15:53:34 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Home Page is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Invoice page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Organisation Page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[product Page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Status Credit Invoice is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[quantity (1) is entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[click on save button is successful]]>
+            </line>
+            <line>
+              <![CDATA[Invoice info page is display]]>
+            </line>
+            <line>
+              <![CDATA[Subject(Motog Billing) is  display]]>
+            </line>
+            <line>
+              <![CDATA[Address(Hardespur pune) is display]]>
+            </line>
+            <line>
+              <![CDATA[Address(Hardespur pune) is display]]>
+            </line>
+            <line>
+              <![CDATA[Quantity(1.00) is display]]>
+            </line>
+            <line>
+              <![CDATA[Status(Credit Invoice) is display]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- invoice -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:VtigerAssignment.TC_005@1500955a]" name="logout" is-config="true" duration-ms="3677" started-at="2021-12-29T15:53:34 IST" finished-at="2021-12-29T15:53:37 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Sign out is successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- VtigerAssignment.TC_005 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
